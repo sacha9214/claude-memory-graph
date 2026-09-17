@@ -1,0 +1,14 @@
+{
+  "name": "claude-memory-graph",
+  "version": "1.0.0",
+  "description": "See your Claude Code memory as a graph: what you told it to remember, how it links together, and which links point nowhere",
+  "bin": { "claude-memory-graph": "bin/cli.js" },
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "files": ["bin", "lib", "index.html", "vis-network.min.js", "README.md", "LICENSE"],
+  "keywords": ["claude", "claude-code", "memory", "graph", "knowledge-graph", "obsidian", "cli"],
+  "license": "MIT",
+  "author": "Sacha (sacha9214)",
+  "repository": { "type": "git", "url": "git+https://github.com/sacha9214/claude-memory-graph.git" },
+  "homepage": "https://sacha9214.github.io/claude-memory-graph/"
+}

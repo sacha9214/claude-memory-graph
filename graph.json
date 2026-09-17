@@ -1,2529 +1,978 @@
 {
-  "directed": false,
-  "multigraph": false,
-  "graph": {},
   "nodes": [
     {
-      "label": "graph.json",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L1",
-      "id": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "community": 2,
-      "norm_label": "graph.json"
-    },
-    {
-      "label": "collapse-filter",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L2",
-      "id": "obsidian_graph_collapse_filter",
-      "community": 2,
-      "norm_label": "collapse-filter"
-    },
-    {
-      "label": "search",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L3",
-      "id": "obsidian_graph_search",
-      "community": 2,
-      "norm_label": "search"
-    },
-    {
-      "label": "showTags",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L4",
-      "id": "obsidian_graph_showtags",
-      "community": 2,
-      "norm_label": "showtags"
-    },
-    {
-      "label": "showAttachments",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L5",
-      "id": "obsidian_graph_showattachments",
-      "community": 2,
-      "norm_label": "showattachments"
-    },
-    {
-      "label": "hideUnresolved",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L6",
-      "id": "obsidian_graph_hideunresolved",
-      "community": 2,
-      "norm_label": "hideunresolved"
-    },
-    {
-      "label": "showOrphans",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L7",
-      "id": "obsidian_graph_showorphans",
-      "community": 2,
-      "norm_label": "showorphans"
-    },
-    {
-      "label": "collapse-color-groups",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L8",
-      "id": "obsidian_graph_collapse_color_groups",
-      "community": 2,
-      "norm_label": "collapse-color-groups"
-    },
-    {
-      "label": "colorGroups",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L9",
-      "id": "obsidian_graph_colorgroups",
-      "community": 2,
-      "norm_label": "colorgroups"
-    },
-    {
-      "label": "collapse-display",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L10",
-      "id": "obsidian_graph_collapse_display",
-      "community": 2,
-      "norm_label": "collapse-display"
-    },
-    {
-      "label": "showArrow",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L11",
-      "id": "obsidian_graph_showarrow",
-      "community": 2,
-      "norm_label": "showarrow"
-    },
-    {
-      "label": "textFadeMultiplier",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L12",
-      "id": "obsidian_graph_textfademultiplier",
-      "community": 2,
-      "norm_label": "textfademultiplier"
-    },
-    {
-      "label": "nodeSizeMultiplier",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L13",
-      "id": "obsidian_graph_nodesizemultiplier",
-      "community": 2,
-      "norm_label": "nodesizemultiplier"
-    },
-    {
-      "label": "lineSizeMultiplier",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L14",
-      "id": "obsidian_graph_linesizemultiplier",
-      "community": 2,
-      "norm_label": "linesizemultiplier"
-    },
-    {
-      "label": "collapse-forces",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L15",
-      "id": "obsidian_graph_collapse_forces",
-      "community": 2,
-      "norm_label": "collapse-forces"
-    },
-    {
-      "label": "centerStrength",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L16",
-      "id": "obsidian_graph_centerstrength",
-      "community": 2,
-      "norm_label": "centerstrength"
-    },
-    {
-      "label": "repelStrength",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L17",
-      "id": "obsidian_graph_repelstrength",
-      "community": 2,
-      "norm_label": "repelstrength"
-    },
-    {
-      "label": "linkStrength",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L18",
-      "id": "obsidian_graph_linkstrength",
-      "community": 2,
-      "norm_label": "linkstrength"
-    },
-    {
-      "label": "linkDistance",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L19",
-      "id": "obsidian_graph_linkdistance",
-      "community": 2,
-      "norm_label": "linkdistance"
-    },
-    {
-      "label": "scale",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L20",
-      "id": "obsidian_graph_scale",
-      "community": 2,
-      "norm_label": "scale"
-    },
-    {
-      "label": "close",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L21",
-      "id": "obsidian_graph_close",
-      "community": 2,
-      "norm_label": "close"
-    },
-    {
-      "label": "app.json",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L1",
-      "id": "claude_projects_home_sacha_memory_obsidian_app_json",
-      "community": 7,
-      "norm_label": "app.json"
-    },
-    {
-      "label": "newFileLocation",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L2",
-      "id": "obsidian_app_newfilelocation",
-      "community": 7,
-      "norm_label": "newfilelocation"
-    },
-    {
-      "label": "showInlineTitle",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L3",
-      "id": "obsidian_app_showinlinetitle",
-      "community": 7,
-      "norm_label": "showinlinetitle"
-    },
-    {
-      "label": "promptDelete",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L4",
-      "id": "obsidian_app_promptdelete",
-      "community": 7,
-      "norm_label": "promptdelete"
-    },
-    {
-      "label": "core-plugins.json",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L1",
-      "id": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "community": 0,
-      "norm_label": "core-plugins.json"
-    },
-    {
-      "label": "file-explorer",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L2",
-      "id": "obsidian_core_plugins_file_explorer",
-      "community": 0,
-      "norm_label": "file-explorer"
-    },
-    {
-      "label": "global-search",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L3",
-      "id": "obsidian_core_plugins_global_search",
-      "community": 0,
-      "norm_label": "global-search"
-    },
-    {
-      "label": "switcher",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L4",
-      "id": "obsidian_core_plugins_switcher",
-      "community": 0,
-      "norm_label": "switcher"
-    },
-    {
-      "label": "graph",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L5",
-      "id": "obsidian_core_plugins_graph",
-      "community": 0,
-      "norm_label": "graph"
-    },
-    {
-      "label": "backlink",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L6",
-      "id": "obsidian_core_plugins_backlink",
-      "community": 0,
-      "norm_label": "backlink"
-    },
-    {
-      "label": "canvas",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L7",
-      "id": "obsidian_core_plugins_canvas",
-      "community": 0,
-      "norm_label": "canvas"
-    },
-    {
-      "label": "outgoing-link",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L8",
-      "id": "obsidian_core_plugins_outgoing_link",
-      "community": 0,
-      "norm_label": "outgoing-link"
-    },
-    {
-      "label": "tag-pane",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L9",
-      "id": "obsidian_core_plugins_tag_pane",
-      "community": 0,
-      "norm_label": "tag-pane"
-    },
-    {
-      "label": "footnotes",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L10",
-      "id": "obsidian_core_plugins_footnotes",
-      "community": 0,
-      "norm_label": "footnotes"
-    },
-    {
-      "label": "properties",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L11",
-      "id": "obsidian_core_plugins_properties",
-      "community": 0,
-      "norm_label": "properties"
-    },
-    {
-      "label": "page-preview",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L12",
-      "id": "obsidian_core_plugins_page_preview",
-      "community": 0,
-      "norm_label": "page-preview"
-    },
-    {
-      "label": "daily-notes",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L13",
-      "id": "obsidian_core_plugins_daily_notes",
-      "community": 0,
-      "norm_label": "daily-notes"
-    },
-    {
-      "label": "templates",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L14",
-      "id": "obsidian_core_plugins_templates",
-      "community": 0,
-      "norm_label": "templates"
-    },
-    {
-      "label": "note-composer",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L15",
-      "id": "obsidian_core_plugins_note_composer",
-      "community": 0,
-      "norm_label": "note-composer"
-    },
-    {
-      "label": "command-palette",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L16",
-      "id": "obsidian_core_plugins_command_palette",
-      "community": 0,
-      "norm_label": "command-palette"
-    },
-    {
-      "label": "slash-command",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L17",
-      "id": "obsidian_core_plugins_slash_command",
-      "community": 0,
-      "norm_label": "slash-command"
-    },
-    {
-      "label": "editor-status",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L18",
-      "id": "obsidian_core_plugins_editor_status",
-      "community": 0,
-      "norm_label": "editor-status"
-    },
-    {
-      "label": "bookmarks",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L19",
-      "id": "obsidian_core_plugins_bookmarks",
-      "community": 0,
-      "norm_label": "bookmarks"
-    },
-    {
-      "label": "markdown-importer",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L20",
-      "id": "obsidian_core_plugins_markdown_importer",
-      "community": 0,
-      "norm_label": "markdown-importer"
-    },
-    {
-      "label": "zk-prefixer",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L21",
-      "id": "obsidian_core_plugins_zk_prefixer",
-      "community": 0,
-      "norm_label": "zk-prefixer"
-    },
-    {
-      "label": "random-note",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L22",
-      "id": "obsidian_core_plugins_random_note",
-      "community": 0,
-      "norm_label": "random-note"
-    },
-    {
-      "label": "outline",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L23",
-      "id": "obsidian_core_plugins_outline",
-      "community": 0,
-      "norm_label": "outline"
-    },
-    {
-      "label": "word-count",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L24",
-      "id": "obsidian_core_plugins_word_count",
-      "community": 0,
-      "norm_label": "word-count"
-    },
-    {
-      "label": "slides",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L25",
-      "id": "obsidian_core_plugins_slides",
-      "community": 0,
-      "norm_label": "slides"
-    },
-    {
-      "label": "audio-recorder",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L26",
-      "id": "obsidian_core_plugins_audio_recorder",
-      "community": 0,
-      "norm_label": "audio-recorder"
-    },
-    {
-      "label": "workspaces",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L27",
-      "id": "obsidian_core_plugins_workspaces",
-      "community": 0,
-      "norm_label": "workspaces"
-    },
-    {
-      "label": "file-recovery",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L28",
-      "id": "obsidian_core_plugins_file_recovery",
-      "community": 0,
-      "norm_label": "file-recovery"
-    },
-    {
-      "label": "publish",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L29",
-      "id": "obsidian_core_plugins_publish",
-      "community": 0,
-      "norm_label": "publish"
-    },
-    {
-      "label": "sync",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L30",
-      "id": "obsidian_core_plugins_sync",
-      "community": 0,
-      "norm_label": "sync"
-    },
-    {
-      "label": "bases",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L31",
-      "id": "obsidian_core_plugins_bases",
-      "community": 0,
-      "norm_label": "bases"
-    },
-    {
-      "label": "webviewer",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L32",
-      "id": "obsidian_core_plugins_webviewer",
-      "community": 0,
-      "norm_label": "webviewer"
-    },
-    {
-      "label": "workspace.json",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L1",
-      "id": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "community": 3,
-      "norm_label": "workspace.json"
-    },
-    {
-      "label": "main",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L2",
-      "id": "obsidian_workspace_main",
-      "community": 3,
-      "norm_label": "main"
-    },
-    {
-      "label": "id",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L3",
-      "id": "obsidian_workspace_main_id",
-      "community": 3,
-      "norm_label": "id"
-    },
-    {
-      "label": "type",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L4",
-      "id": "obsidian_workspace_main_type",
-      "community": 3,
-      "norm_label": "type"
-    },
-    {
-      "label": "children",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L5",
-      "id": "obsidian_workspace_main_children",
-      "community": 3,
-      "norm_label": "children"
-    },
-    {
-      "label": "direction",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L23",
-      "id": "obsidian_workspace_main_direction",
-      "community": 3,
-      "norm_label": "direction"
-    },
-    {
-      "label": "left",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L25",
-      "id": "obsidian_workspace_left",
-      "community": 6,
-      "norm_label": "left"
-    },
-    {
-      "label": "id",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L26",
-      "id": "obsidian_workspace_left_id",
-      "community": 6,
-      "norm_label": "id"
-    },
-    {
-      "label": "type",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L27",
-      "id": "obsidian_workspace_left_type",
-      "community": 6,
-      "norm_label": "type"
-    },
-    {
-      "label": "children",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L28",
-      "id": "obsidian_workspace_left_children",
-      "community": 6,
-      "norm_label": "children"
-    },
-    {
-      "label": "direction",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L77",
-      "id": "obsidian_workspace_left_direction",
-      "community": 6,
-      "norm_label": "direction"
-    },
-    {
-      "label": "width",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L78",
-      "id": "obsidian_workspace_left_width",
-      "community": 6,
-      "norm_label": "width"
-    },
-    {
-      "label": "right",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L80",
-      "id": "obsidian_workspace_right",
-      "community": 3,
-      "norm_label": "right"
-    },
-    {
-      "label": "id",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L81",
-      "id": "obsidian_workspace_right_id",
-      "community": 3,
-      "norm_label": "id"
-    },
-    {
-      "label": "type",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L82",
-      "id": "obsidian_workspace_right_type",
-      "community": 3,
-      "norm_label": "type"
-    },
-    {
-      "label": "children",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L83",
-      "id": "obsidian_workspace_right_children",
-      "community": 3,
-      "norm_label": "children"
-    },
-    {
-      "label": "direction",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L168",
-      "id": "obsidian_workspace_right_direction",
-      "community": 3,
-      "norm_label": "direction"
-    },
-    {
-      "label": "width",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L169",
-      "id": "obsidian_workspace_right_width",
-      "community": 3,
-      "norm_label": "width"
-    },
-    {
-      "label": "collapsed",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L170",
-      "id": "obsidian_workspace_right_collapsed",
-      "community": 3,
-      "norm_label": "collapsed"
-    },
-    {
-      "label": "left-ribbon",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L172",
-      "id": "obsidian_workspace_left_ribbon",
-      "community": 3,
-      "norm_label": "left-ribbon"
-    },
-    {
-      "label": "hiddenItems",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L173",
-      "id": "obsidian_workspace_left_ribbon_hiddenitems",
-      "community": 5,
-      "norm_label": "hiddenitems"
-    },
-    {
-      "label": "switcher:Ouvrir le s\u00e9lecteur rapide",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L174",
-      "id": "obsidian_workspace_hiddenitems_switcher_ouvrir_le_s\u00e9lecteur_rapide",
-      "community": 5,
-      "norm_label": "switcher:ouvrir le selecteur rapide"
-    },
-    {
-      "label": "graph:Ouvrir la vue graphique",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L175",
-      "id": "obsidian_workspace_hiddenitems_graph_ouvrir_la_vue_graphique",
-      "community": 5,
-      "norm_label": "graph:ouvrir la vue graphique"
-    },
-    {
-      "label": "canvas:Cr\u00e9er une nouvelle toile",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L176",
-      "id": "obsidian_workspace_hiddenitems_canvas_cr\u00e9er_une_nouvelle_toile",
-      "community": 5,
-      "norm_label": "canvas:creer une nouvelle toile"
-    },
-    {
-      "label": "daily-notes:Ouvrir la note quotidienne",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L177",
-      "id": "obsidian_workspace_hiddenitems_daily_notes_ouvrir_la_note_quotidienne",
-      "community": 5,
-      "norm_label": "daily-notes:ouvrir la note quotidienne"
-    },
-    {
-      "label": "templates:Ins\u00e9rer le mod\u00e8le",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L178",
-      "id": "obsidian_workspace_hiddenitems_templates_ins\u00e9rer_le_mod\u00e8le",
-      "community": 5,
-      "norm_label": "templates:inserer le modele"
-    },
-    {
-      "label": "command-palette:Ouvrir la palette de commandes",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L179",
-      "id": "obsidian_workspace_hiddenitems_command_palette_ouvrir_la_palette_de_commandes",
-      "community": 5,
-      "norm_label": "command-palette:ouvrir la palette de commandes"
-    },
-    {
-      "label": "bases:Cr\u00e9er une nouvelle base",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L180",
-      "id": "obsidian_workspace_hiddenitems_bases_cr\u00e9er_une_nouvelle_base",
-      "community": 5,
-      "norm_label": "bases:creer une nouvelle base"
-    },
-    {
-      "label": "active",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L183",
-      "id": "obsidian_workspace_active",
-      "community": 3,
-      "norm_label": "active"
-    },
-    {
-      "label": "lastOpenFiles",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L184",
-      "id": "obsidian_workspace_lastopenfiles",
-      "community": 3,
-      "norm_label": "lastopenfiles"
-    },
-    {
-      "label": "appearance.json",
-      "file_type": "code",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/appearance.json",
-      "source_location": "L1",
-      "id": "claude_projects_home_sacha_memory_obsidian_appearance_json",
-      "community": 8,
-      "norm_label": "appearance.json"
-    },
-    {
-      "label": "Claude Memory Index",
-      "file_type": "document",
-      "source_file": "memory/MEMORY.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_memory_index",
-      "community": 1,
-      "norm_label": "claude memory index"
-    },
-    {
-      "label": "User Profile \u2014 Sacha",
-      "file_type": "document",
-      "source_file": "memory/user_profile.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-18",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_user_profile_sacha",
-      "community": 1,
-      "norm_label": "user profile \u2014 sacha"
-    },
-    {
-      "label": "Linux Mint OS",
-      "file_type": "concept",
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 10",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_user_profile_linux_mint",
-      "community": 1,
-      "norm_label": "linux mint os"
-    },
-    {
-      "label": "Cinnamon Desktop",
-      "file_type": "concept",
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 11",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_user_profile_cinnamon",
-      "community": 1,
-      "norm_label": "cinnamon desktop"
-    },
-    {
-      "label": "Chromium Browser",
-      "file_type": "concept",
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 12",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_user_profile_chromium",
-      "community": 1,
-      "norm_label": "chromium browser"
-    },
-    {
-      "label": "NVIDIA GPU (Prime switching)",
-      "file_type": "concept",
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 15",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_user_profile_nvidia_gpu",
-      "community": 1,
-      "norm_label": "nvidia gpu (prime switching)"
-    },
-    {
-      "label": "PC Setup",
-      "file_type": "document",
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-17",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_project_pc_setup_pc",
-      "community": 1,
-      "norm_label": "pc setup"
-    },
-    {
-      "label": "Obsidian Vault (Claude Memory)",
-      "file_type": "concept",
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": "line 21-25",
-      "source_url": null,
-      "captured_at": "2026-05-18",
-      "author": null,
-      "contributor": null,
-      "rationale": "User wanted Obsidian linked to Claude memory so they can browse notes in the UI. Vault path is ~/.claude/projects/-home-sacha/memory/",
-      "id": "memory_project_pc_setup_obsidian",
-      "community": 1,
-      "norm_label": "obsidian vault (claude memory)"
-    },
-    {
-      "label": "MacBook Air M3 Setup",
-      "file_type": "document",
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-06-04",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_project_mac_setup_macbook",
-      "community": 1,
-      "norm_label": "macbook air m3 setup"
-    },
-    {
-      "label": "AltTab (macOS App)",
-      "file_type": "concept",
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": "line 16",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_mac_setup_alttab",
-      "community": 1,
-      "norm_label": "alttab (macos app)"
-    },
-    {
-      "label": "Claude Code CLI",
-      "file_type": "concept",
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": "line 17",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_mac_setup_claude_code",
-      "community": 1,
-      "norm_label": "claude code cli"
-    },
-    {
-      "label": "Feedback: Deploy via Netlify",
-      "file_type": "rationale",
-      "source_file": "memory/feedback_deploy.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-20",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "rationale": "User migrated from Vercel to Netlify. Deploy method: push to GitHub \u2192 Netlify auto-builds. No CLI needed. Old Vercel method required remote build because NEXT_PUBLIC_ Firebase env vars are baked at build time.",
-      "id": "memory_feedback_deploy_netlify",
-      "community": 4,
-      "norm_label": "feedback: deploy via netlify"
-    },
-    {
-      "label": "Feedback: Senior Google Engineer Persona",
-      "file_type": "rationale",
-      "source_file": "memory/feedback_persona.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-25",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "rationale": "User wants responses reflecting expertise of a 15+ year Google senior engineer: pragmatism, technical depth, direct opinions on architectures and trade-offs, no unnecessary over-engineering.",
-      "id": "memory_feedback_persona_senior_engineer",
-      "community": 1,
-      "norm_label": "feedback: senior google engineer persona"
-    },
-    {
-      "label": "Feedback: GitHub + Memory Workflow",
-      "file_type": "rationale",
-      "source_file": "memory/feedback_github_and_memory.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-26",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "rationale": "After every project file modification: always do git commit + git push to corresponding GitHub repo AND update project_*.md memory. Explicitly requested 2026-05-26.",
-      "id": "memory_feedback_github_and_memory_workflow",
-      "community": 1,
-      "norm_label": "feedback: github + memory workflow"
-    },
-    {
-      "label": "Feedback: Save Memory After Every Session",
-      "file_type": "rationale",
-      "source_file": "memory/feedback_save_memory.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": "2026-05-27",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "rationale": "Always save memory entry for any significant work done \u2014 websites, features, configs, installs, fixes. Update after EACH feature/fix pushed to GitHub, not just end of session. Keep MEMORY.md index in sync.",
-      "id": "memory_feedback_save_memory_rule",
-      "community": 1,
-      "norm_label": "feedback: save memory after every session"
-    },
-    {
-      "label": "Halide Vault App",
-      "file_type": "document",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": null,
-      "source_url": "https://halides.netlify.app",
-      "captured_at": "2026-05-23",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_project_halide_app_halide_vault",
-      "community": 4,
-      "norm_label": "halide vault app"
-    },
-    {
-      "label": "Next.js 16 (TypeScript)",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 13",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_nextjs",
-      "community": 4,
-      "norm_label": "next.js 16 (typescript)"
-    },
-    {
-      "label": "Firebase Auth + Firestore",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 44-51",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_firebase",
-      "community": 4,
-      "norm_label": "firebase auth + firestore"
-    },
-    {
-      "label": "CoinGecko API",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 38",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_coingecko",
-      "community": 4,
-      "norm_label": "coingecko api"
-    },
-    {
-      "label": "Yahoo Finance API",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 40",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_yahoo_finance",
-      "community": 4,
-      "norm_label": "yahoo finance api"
-    },
-    {
-      "label": "GitHub: sacha9214/halide-vault",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 15",
-      "source_url": "https://github.com/sacha9214/halide-vault",
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_github_repo",
-      "community": 4,
-      "norm_label": "github: sacha9214/halide-vault"
-    },
-    {
-      "label": "Framer Motion",
-      "file_type": "concept",
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 13",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_halide_app_framer_motion",
-      "community": 4,
-      "norm_label": "framer motion"
-    },
-    {
-      "label": "SDMIS Firefighter Training Simulator",
-      "file_type": "document",
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": null,
-      "source_url": "https://sacha9214.github.io/sdmis-sim/",
-      "captured_at": "2026-05-23",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_project_sdmis_sim_simulator",
-      "community": 1,
-      "norm_label": "sdmis firefighter training simulator"
-    },
-    {
-      "label": "Three.js r134",
-      "file_type": "concept",
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 24",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_sdmis_sim_threejs",
-      "community": 1,
-      "norm_label": "three.js r134"
-    },
-    {
-      "label": "MARCH Bilan Protocol",
-      "file_type": "concept",
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 29",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_sdmis_sim_march_bilan",
-      "community": 1,
-      "norm_label": "march bilan protocol"
-    },
-    {
-      "label": "GitHub: sacha9214/sdmis-sim",
-      "file_type": "concept",
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 15",
-      "source_url": "https://github.com/sacha9214/sdmis-sim",
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_sdmis_sim_github_repo",
-      "community": 1,
-      "norm_label": "github: sacha9214/sdmis-sim"
-    },
-    {
-      "label": "Bac Fran\u00e7ais 2026 \u2014 Oral Preparation",
-      "file_type": "document",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": null,
-      "source_url": "https://sacha9214.github.io/la-vague-bac/",
-      "captured_at": "2026-05-29",
-      "author": "Sacha Allain",
-      "contributor": null,
-      "id": "memory_project_bac_francais_bac",
-      "community": 1,
-      "norm_label": "bac francais 2026 \u2014 oral preparation"
-    },
-    {
-      "label": "La Vague (Todd Strasser / Morton Rhue)",
-      "file_type": "concept",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 10",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_bac_francais_la_vague",
-      "community": 1,
-      "norm_label": "la vague (todd strasser / morton rhue)"
-    },
-    {
-      "label": "Bac Fran\u00e7ais Revision Site",
-      "file_type": "concept",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 13",
-      "source_url": "https://sacha9214.github.io/la-vague-bac/",
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_bac_francais_revision_site",
-      "community": 1,
-      "norm_label": "bac francais revision site"
-    },
-    {
-      "label": "Bac Premi\u00e8re G\u00e9n\u00e9rale Site",
-      "file_type": "concept",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 181",
-      "source_url": "https://sacha9214.github.io/bac-premiere-generale/",
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_bac_francais_bac_premiere_generale",
-      "community": 1,
-      "norm_label": "bac premiere generale site"
-    },
-    {
-      "label": "Quiz Flashcard System",
-      "file_type": "concept",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 64-69",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_bac_francais_quiz_flashcard",
-      "community": 1,
-      "norm_label": "quiz flashcard system"
-    },
-    {
-      "label": "Web Speech API (Audio Player)",
-      "file_type": "concept",
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 167",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_project_bac_francais_web_speech_api",
-      "community": 1,
-      "norm_label": "web speech api (audio player)"
-    },
-    {
-      "label": "Obsidian Vault Configuration",
-      "file_type": "document",
-      "source_file": "memory/.obsidian/app.json",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_obsidian_config",
-      "community": 1,
-      "norm_label": "obsidian vault configuration"
-    },
-    {
-      "label": "Obsidian Graph View Config",
-      "file_type": "document",
-      "source_file": "memory/.obsidian/graph.json",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "memory_obsidian_graph_config",
-      "community": 1,
-      "norm_label": "obsidian graph view config"
+      "id": "welcome",
+      "label": "Welcome",
+      "type": "other",
+      "description": "",
+      "file": "memory/Welcome.md",
+      "dir": "memory",
+      "words": 29,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": true,
+      "community": 1
+    },
+    {
+      "id": "feedback-deploy",
+      "label": "feedback-deploy",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_deploy.md",
+      "dir": "memory",
+      "words": 116,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "feedback-end-of-message-sync",
+      "label": "feedback-end-of-message-sync",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_end_of_message_sync.md",
+      "dir": "memory",
+      "words": 77,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 2
+    },
+    {
+      "id": "feedback-github-and-memory",
+      "label": "feedback-github-and-memory",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_github_and_memory.md",
+      "dir": "memory",
+      "words": 117,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 4,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "feedback-github-english",
+      "label": "feedback-github-english",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_github_english.md",
+      "dir": "memory",
+      "words": 170,
+      "modified": "2026-09-17",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "feedback-incertitude",
+      "label": "feedback-incertitude",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_incertitude.md",
+      "dir": "memory",
+      "words": 183,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 4,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "feedback-persona",
+      "label": "feedback-persona",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_persona.md",
+      "dir": "memory",
+      "words": 125,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 3
+    },
+    {
+      "id": "feedback-save-memory",
+      "label": "feedback-save-memory",
+      "type": "feedback",
+      "description": "",
+      "file": "memory/feedback_save_memory.md",
+      "dir": "memory",
+      "words": 95,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 4
+    },
+    {
+      "id": "project-angry-brainrot",
+      "label": "project-angry-brainrot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_angry_brainrot.md",
+      "dir": "memory",
+      "words": 450,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 8
+    },
+    {
+      "id": "project-bac-francais",
+      "label": "project-bac-francais",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_bac_francais.md",
+      "dir": "memory",
+      "words": 3706,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 9
+    },
+    {
+      "id": "project-bac-maths",
+      "label": "project-bac-maths",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_bac_maths.md",
+      "dir": "memory",
+      "words": 42,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 9
+    },
+    {
+      "id": "project-discord-bot",
+      "label": "project-discord-bot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_discord_bot.md",
+      "dir": "memory",
+      "words": 156,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-discord-retro-to-reality",
+      "label": "project-discord-retro-to-reality",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_discord_retro_to_reality.md",
+      "dir": "memory",
+      "words": 116,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-fast-clicker",
+      "label": "project_fast_clicker",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_fast_clicker.md",
+      "dir": "memory",
+      "words": 153,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 10
+    },
+    {
+      "id": "project-github-profile",
+      "label": "project-github-profile",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_github_profile.md",
+      "dir": "memory",
+      "words": 628,
+      "modified": "2026-09-17",
+      "missing": false,
+      "degree": 6,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-godot-mcp",
+      "label": "project-godot-mcp",
+      "type": "reference",
+      "description": "",
+      "file": "memory/project_godot_mcp.md",
+      "dir": "memory",
+      "words": 124,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-halide-app",
+      "label": "project-halide-app",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_halide_app.md",
+      "dir": "memory",
+      "words": 1276,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-how-to-fish",
+      "label": "project-how-to-fish",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_how_to_fish.md",
+      "dir": "memory",
+      "words": 128,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 11
+    },
+    {
+      "id": "project-isaac-roblox",
+      "label": "project-isaac-roblox",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_isaac_roblox.md",
+      "dir": "memory",
+      "words": 8735,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-jarvis-vocal",
+      "label": "project-jarvis-vocal",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_jarvis_vocal.md",
+      "dir": "memory",
+      "words": 2001,
+      "modified": "2026-09-17",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 12
+    },
+    {
+      "id": "project-ladderbot",
+      "label": "project-ladderbot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_ladderbot.md",
+      "dir": "memory",
+      "words": 1194,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 7,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "mac-setup",
+      "label": "mac-setup",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_mac_setup.md",
+      "dir": "memory",
+      "words": 119,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": true,
+      "community": 5
+    },
+    {
+      "id": "project-neurofeedback-videos",
+      "label": "project-neurofeedback-videos",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_neurofeedback_videos.md",
+      "dir": "memory",
+      "words": 210,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 14
+    },
+    {
+      "id": "project-pairbot",
+      "label": "project-pairbot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_pairbot.md",
+      "dir": "memory",
+      "words": 594,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 5,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "pc-setup",
+      "label": "pc-setup",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_pc_setup.md",
+      "dir": "memory",
+      "words": 111,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": true,
+      "community": 6
+    },
+    {
+      "id": "project-polymarket-bot",
+      "label": "project-polymarket-bot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_bot.md",
+      "dir": "memory",
+      "words": 1915,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 8,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-polymarket-calibration",
+      "label": "project-polymarket-calibration",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_calibration.md",
+      "dir": "memory",
+      "words": 289,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "project-polymarket-coherence",
+      "label": "project-polymarket-coherence",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_coherence.md",
+      "dir": "memory",
+      "words": 1356,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 5,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-polymarket-overlap",
+      "label": "project-polymarket-overlap",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_overlap.md",
+      "dir": "memory",
+      "words": 1130,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-polymarket-promo",
+      "label": "project-polymarket-promo",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_promo.md",
+      "dir": "memory",
+      "words": 419,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 5,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-polymarket-radar",
+      "label": "project-polymarket-radar",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_radar.md",
+      "dir": "memory",
+      "words": 1421,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 4,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-polymarket-rn1",
+      "label": "project-polymarket-rn1",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_rn1.md",
+      "dir": "memory",
+      "words": 359,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 7,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "project-polymarket-vps",
+      "label": "project-polymarket-vps",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_polymarket_vps.md",
+      "dir": "memory",
+      "words": 877,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 9,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-rangement-mac",
+      "label": "project-rangement-mac",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rangement_mac.md",
+      "dir": "memory",
+      "words": 245,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-raphanimation-discord",
+      "label": "project-raphanimation-discord",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_raphanimation_discord.md",
+      "dir": "memory",
+      "words": 269,
+      "modified": "2026-09-17",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-retro-pong-incremental",
+      "label": "project-retro-pong-incremental",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_retro_pong_incremental.md",
+      "dir": "memory",
+      "words": 362,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-rn1-analyse-succes",
+      "label": "project-rn1-analyse-succes",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rn1_analyse_succes.md",
+      "dir": "memory",
+      "words": 348,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 5,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "project-rn1-copybot",
+      "label": "project-rn1-copybot",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rn1_copybot.md",
+      "dir": "memory",
+      "words": 451,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "project-rn1-publication",
+      "label": "project-rn1-publication",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rn1_publication.md",
+      "dir": "memory",
+      "words": 469,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 13
+    },
+    {
+      "id": "project-rng-infinite",
+      "label": "project-rng-infinite",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rng_infinite.md",
+      "dir": "memory",
+      "words": 540,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 4,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-rng-roblox",
+      "label": "project-rng-roblox",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rng_roblox.md",
+      "dir": "memory",
+      "words": 641,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 3,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-roblox-obby",
+      "label": "project-roblox-obby",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_roblox_obby.md",
+      "dir": "memory",
+      "words": 517,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-rofloat",
+      "label": "project-rofloat",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_rofloat.md",
+      "dir": "memory",
+      "words": 459,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-sdmis-sim",
+      "label": "project-sdmis-sim",
+      "type": "project",
+      "description": "",
+      "file": "memory/project_sdmis_sim.md",
+      "dir": "memory",
+      "words": 491,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "user-location",
+      "label": "user-location",
+      "type": "user",
+      "description": "",
+      "file": "memory/user_location.md",
+      "dir": "memory",
+      "words": 68,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 1,
+      "orphan": true,
+      "community": 7
+    },
+    {
+      "id": "user-profile",
+      "label": "user-profile",
+      "type": "user",
+      "description": "",
+      "file": "memory/user_profile.md",
+      "dir": "memory",
+      "words": 27,
+      "modified": "2026-09-16",
+      "missing": false,
+      "degree": 0,
+      "orphan": false,
+      "community": 15
+    },
+    {
+      "id": "create-a-link",
+      "label": "create-a-link",
+      "type": "missing",
+      "description": "",
+      "file": "",
+      "dir": "",
+      "words": 0,
+      "modified": "",
+      "missing": true,
+      "degree": 1,
+      "orphan": false,
+      "community": 1
+    },
+    {
+      "id": "-",
+      "label": "-",
+      "type": "missing",
+      "description": "",
+      "file": "",
+      "dir": "",
+      "words": 0,
+      "modified": "",
+      "missing": true,
+      "degree": 1,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "project-mac-setup",
+      "label": "project-mac-setup",
+      "type": "missing",
+      "description": "",
+      "file": "",
+      "dir": "",
+      "words": 0,
+      "modified": "",
+      "missing": true,
+      "degree": 1,
+      "orphan": false,
+      "community": 12
+    },
+    {
+      "id": "scam-recruteur-trading-bot",
+      "label": "scam-recruteur-trading-bot",
+      "type": "missing",
+      "description": "",
+      "file": "",
+      "dir": "",
+      "words": 0,
+      "modified": "",
+      "missing": true,
+      "degree": 2,
+      "orphan": false,
+      "community": 0
+    },
+    {
+      "id": "pixel-tracker",
+      "label": "pixel-tracker",
+      "type": "missing",
+      "description": "",
+      "file": "",
+      "dir": "",
+      "words": 0,
+      "modified": "",
+      "missing": true,
+      "degree": 1,
+      "orphan": false,
+      "community": 7
     }
   ],
-  "links": [
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L16",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_centerstrength",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L21",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_close",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L8",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_collapse_color_groups",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L10",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_collapse_display",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L2",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_collapse_filter",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L15",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_collapse_forces",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L9",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_colorgroups",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L6",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_hideunresolved",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_linesizemultiplier",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L19",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_linkdistance",
-      "confidence_score": 1.0
-    },
+  "edges": [
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L18",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_linkstrength",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L13",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_nodesizemultiplier",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L17",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_repelstrength",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L20",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_scale",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L3",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_search",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_showarrow",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L5",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_showattachments",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L7",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_showorphans",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L4",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_showtags",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/graph.json",
-      "source_location": "L12",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_graph_json",
-      "target": "obsidian_graph_textfademultiplier",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L2",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_app_json",
-      "target": "obsidian_app_newfilelocation",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L4",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_app_json",
-      "target": "obsidian_app_promptdelete",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/app.json",
-      "source_location": "L3",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_app_json",
-      "target": "obsidian_app_showinlinetitle",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L26",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_audio_recorder",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L6",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_backlink",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L31",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_bases",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L19",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_bookmarks",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L7",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_canvas",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L16",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_command_palette",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L13",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_daily_notes",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L18",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_editor_status",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L2",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_file_explorer",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L28",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_file_recovery",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L10",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_footnotes",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L3",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_global_search",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L5",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_graph",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L20",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_markdown_importer",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L15",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_note_composer",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L8",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_outgoing_link",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L23",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_outline",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L12",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_page_preview",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_properties",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L29",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_publish",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L22",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_random_note",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L17",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_slash_command",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L25",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_slides",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L4",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_switcher",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L30",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_sync",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L9",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_tag_pane",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_templates",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L32",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_webviewer",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L24",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_word_count",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L27",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_workspaces",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/core-plugins.json",
-      "source_location": "L21",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_core_plugins_json",
-      "target": "obsidian_core_plugins_zk_prefixer",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L183",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_active",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L184",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_lastopenfiles",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L25",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_left",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L172",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_left_ribbon",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L2",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_main",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L80",
-      "weight": 1.0,
-      "source": "claude_projects_home_sacha_memory_obsidian_workspace_json",
-      "target": "obsidian_workspace_right",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L5",
-      "weight": 1.0,
-      "source": "obsidian_workspace_main",
-      "target": "obsidian_workspace_main_children",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L23",
-      "weight": 1.0,
-      "source": "obsidian_workspace_main",
-      "target": "obsidian_workspace_main_direction",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L3",
-      "weight": 1.0,
-      "source": "obsidian_workspace_main",
-      "target": "obsidian_workspace_main_id",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L4",
-      "weight": 1.0,
-      "source": "obsidian_workspace_main",
-      "target": "obsidian_workspace_main_type",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L28",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left",
-      "target": "obsidian_workspace_left_children",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L77",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left",
-      "target": "obsidian_workspace_left_direction",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L26",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left",
-      "target": "obsidian_workspace_left_id",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L27",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left",
-      "target": "obsidian_workspace_left_type",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L78",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left",
-      "target": "obsidian_workspace_left_width",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L83",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_children",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L170",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_collapsed",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L168",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_direction",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L81",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_id",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L82",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_type",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L169",
-      "weight": 1.0,
-      "source": "obsidian_workspace_right",
-      "target": "obsidian_workspace_right_width",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L173",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon",
-      "target": "obsidian_workspace_left_ribbon_hiddenitems",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L180",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_bases_cr\u00e9er_une_nouvelle_base",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L176",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_canvas_cr\u00e9er_une_nouvelle_toile",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L179",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_command_palette_ouvrir_la_palette_de_commandes",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L177",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_daily_notes_ouvrir_la_note_quotidienne",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L175",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_graph_ouvrir_la_vue_graphique",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L174",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_switcher_ouvrir_le_s\u00e9lecteur_rapide",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": ".claude/projects/-home-sacha/memory/.obsidian/workspace.json",
-      "source_location": "L178",
-      "weight": 1.0,
-      "source": "obsidian_workspace_left_ribbon_hiddenitems",
-      "target": "obsidian_workspace_hiddenitems_templates_ins\u00e9rer_le_mod\u00e8le",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 6",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_feedback_save_memory_rule"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 9",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_feedback_deploy_netlify"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 7",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_feedback_github_and_memory_workflow"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 8",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_feedback_persona_senior_engineer"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 11",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_project_bac_francais_bac"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 5",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_project_halide_app_halide_vault"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 12",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_project_mac_setup_macbook"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 4",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_project_pc_setup_pc"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 10",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_project_sdmis_sim_simulator"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/MEMORY.md",
-      "source_location": "line 3",
-      "weight": 1.0,
-      "source": "memory_memory_index",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": "line 23",
-      "weight": 0.95,
-      "source": "memory_project_pc_setup_obsidian",
-      "target": "memory_memory_index"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": null,
-      "weight": 0.95,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": null,
-      "weight": 0.95,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": null,
-      "weight": 0.95,
-      "source": "memory_project_mac_setup_macbook",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": null,
-      "weight": 0.95,
-      "source": "memory_project_pc_setup_pc",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": null,
-      "weight": 0.95,
-      "source": "memory_project_sdmis_sim_simulator",
-      "target": "memory_user_profile_sacha"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 12",
-      "weight": 1.0,
-      "source": "memory_user_profile_sacha",
-      "target": "memory_user_profile_chromium"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 11",
-      "weight": 1.0,
-      "source": "memory_user_profile_sacha",
-      "target": "memory_user_profile_cinnamon"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 10",
-      "weight": 1.0,
-      "source": "memory_user_profile_sacha",
-      "target": "memory_user_profile_linux_mint"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/user_profile.md",
-      "source_location": "line 15",
-      "weight": 1.0,
-      "source": "memory_user_profile_sacha",
-      "target": "memory_user_profile_nvidia_gpu"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": "line 1",
-      "weight": 1.0,
-      "source": "memory_project_pc_setup_pc",
-      "target": "memory_user_profile_linux_mint"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": "line 20-25",
-      "weight": 1.0,
-      "source": "memory_project_pc_setup_pc",
-      "target": "memory_project_pc_setup_obsidian"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "memory/project_pc_setup.md",
-      "source_location": "line 22",
-      "weight": 0.95,
-      "source": "memory_project_pc_setup_obsidian",
-      "target": "memory_obsidian_config"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": "line 16",
-      "weight": 1.0,
-      "source": "memory_project_mac_setup_macbook",
-      "target": "memory_project_mac_setup_alttab"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_mac_setup.md",
-      "source_location": "line 17",
-      "weight": 1.0,
-      "source": "memory_project_mac_setup_macbook",
-      "target": "memory_project_mac_setup_claude_code"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/feedback_deploy.md",
-      "source_location": "line 21",
-      "weight": 1.0,
-      "source": "memory_feedback_deploy_netlify",
-      "target": "memory_project_halide_app_github_repo"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/feedback_deploy.md",
-      "source_location": "line 21",
-      "weight": 1.0,
-      "source": "memory_feedback_deploy_netlify",
-      "target": "memory_project_halide_app_halide_vault"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/feedback_github_and_memory.md",
-      "source_location": "line 16",
-      "weight": 1.0,
-      "source": "memory_feedback_github_and_memory_workflow",
-      "target": "memory_project_bac_francais_bac"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/feedback_github_and_memory.md",
-      "source_location": "line 16",
-      "weight": 1.0,
-      "source": "memory_feedback_github_and_memory_workflow",
-      "target": "memory_project_halide_app_halide_vault"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/feedback_github_and_memory.md",
-      "source_location": "line 16",
-      "weight": 1.0,
-      "source": "memory_feedback_github_and_memory_workflow",
-      "target": "memory_project_sdmis_sim_simulator"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 38",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_coingecko"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 44",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_firebase"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 13",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_framer_motion"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 15",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_github_repo"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 13",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_nextjs"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_halide_app.md",
-      "source_location": "line 40",
-      "weight": 1.0,
-      "source": "memory_project_halide_app_halide_vault",
-      "target": "memory_project_halide_app_yahoo_finance"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 15",
-      "weight": 1.0,
-      "source": "memory_project_sdmis_sim_simulator",
-      "target": "memory_project_sdmis_sim_github_repo"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 29",
-      "weight": 1.0,
-      "source": "memory_project_sdmis_sim_simulator",
-      "target": "memory_project_sdmis_sim_march_bilan"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_sdmis_sim.md",
-      "source_location": "line 24",
-      "weight": 1.0,
-      "source": "memory_project_sdmis_sim_simulator",
-      "target": "memory_project_sdmis_sim_threejs"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 181",
-      "weight": 1.0,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_project_bac_francais_bac_premiere_generale"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 10",
-      "weight": 1.0,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_project_bac_francais_la_vague"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 64",
-      "weight": 1.0,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_project_bac_francais_quiz_flashcard"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 13",
-      "weight": 1.0,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_project_bac_francais_revision_site"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "memory/project_bac_francais.md",
-      "source_location": "line 167",
-      "weight": 1.0,
-      "source": "memory_project_bac_francais_bac",
-      "target": "memory_project_bac_francais_web_speech_api"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "memory/.obsidian/app.json",
-      "source_location": null,
-      "weight": 0.85,
-      "source": "memory_obsidian_config",
-      "target": "memory_obsidian_graph_config"
+      "from": "welcome",
+      "to": "create-a-link"
+    },
+    {
+      "from": "feedback-github-english",
+      "to": "project-github-profile"
+    },
+    {
+      "from": "feedback-github-english",
+      "to": "feedback-github-and-memory"
+    },
+    {
+      "from": "feedback-incertitude",
+      "to": "project-rn1-analyse-succes"
+    },
+    {
+      "from": "feedback-incertitude",
+      "to": "project-ladderbot"
+    },
+    {
+      "from": "project-bac-maths",
+      "to": "project-bac-francais"
+    },
+    {
+      "from": "project-discord-bot",
+      "to": "project-discord-retro-to-reality"
+    },
+    {
+      "from": "project-discord-retro-to-reality",
+      "to": "project-retro-pong-incremental"
+    },
+    {
+      "from": "project-github-profile",
+      "to": "feedback-github-and-memory"
+    },
+    {
+      "from": "project-github-profile",
+      "to": "project-rng-infinite"
+    },
+    {
+      "from": "project-github-profile",
+      "to": "project-halide-app"
+    },
+    {
+      "from": "project-github-profile",
+      "to": "project-sdmis-sim"
+    },
+    {
+      "from": "project-godot-mcp",
+      "to": "project-isaac-roblox"
+    },
+    {
+      "from": "project-godot-mcp",
+      "to": "project-retro-pong-incremental"
+    },
+    {
+      "from": "project-isaac-roblox",
+      "to": "-"
+    },
+    {
+      "from": "project-jarvis-vocal",
+      "to": "project-mac-setup"
+    },
+    {
+      "from": "project-ladderbot",
+      "to": "project-polymarket-rn1"
+    },
+    {
+      "from": "project-ladderbot",
+      "to": "project-rn1-analyse-succes"
+    },
+    {
+      "from": "project-ladderbot",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-ladderbot",
+      "to": "project-pairbot"
+    },
+    {
+      "from": "project-pairbot",
+      "to": "project-polymarket-rn1"
+    },
+    {
+      "from": "project-pairbot",
+      "to": "project-rn1-copybot"
+    },
+    {
+      "from": "project-polymarket-bot",
+      "to": "project-polymarket-overlap"
+    },
+    {
+      "from": "project-polymarket-bot",
+      "to": "scam-recruteur-trading-bot"
+    },
+    {
+      "from": "project-polymarket-bot",
+      "to": "project-github-profile"
+    },
+    {
+      "from": "project-polymarket-bot",
+      "to": "project-discord-bot"
+    },
+    {
+      "from": "project-polymarket-calibration",
+      "to": "project-pairbot"
+    },
+    {
+      "from": "project-polymarket-calibration",
+      "to": "project-polymarket-rn1"
+    },
+    {
+      "from": "project-polymarket-coherence",
+      "to": "project-polymarket-bot"
+    },
+    {
+      "from": "project-polymarket-coherence",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-polymarket-promo",
+      "to": "project-polymarket-bot"
+    },
+    {
+      "from": "project-polymarket-promo",
+      "to": "project-polymarket-coherence"
+    },
+    {
+      "from": "project-polymarket-promo",
+      "to": "project-polymarket-radar"
+    },
+    {
+      "from": "project-polymarket-promo",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-polymarket-promo",
+      "to": "scam-recruteur-trading-bot"
+    },
+    {
+      "from": "project-polymarket-radar",
+      "to": "project-polymarket-bot"
+    },
+    {
+      "from": "project-polymarket-radar",
+      "to": "project-polymarket-coherence"
+    },
+    {
+      "from": "project-polymarket-radar",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-polymarket-rn1",
+      "to": "project-rn1-copybot"
+    },
+    {
+      "from": "project-polymarket-rn1",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-polymarket-vps",
+      "to": "project-polymarket-bot"
+    },
+    {
+      "from": "project-rangement-mac",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-rangement-mac",
+      "to": "project-ladderbot"
+    },
+    {
+      "from": "project-raphanimation-discord",
+      "to": "project-discord-retro-to-reality"
+    },
+    {
+      "from": "project-raphanimation-discord",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-raphanimation-discord",
+      "to": "project-polymarket-coherence"
+    },
+    {
+      "from": "project-rn1-analyse-succes",
+      "to": "project-pairbot"
+    },
+    {
+      "from": "project-rn1-analyse-succes",
+      "to": "project-polymarket-rn1"
+    },
+    {
+      "from": "project-rn1-copybot",
+      "to": "project-polymarket-vps"
+    },
+    {
+      "from": "project-rn1-publication",
+      "to": "project-ladderbot"
+    },
+    {
+      "from": "project-rn1-publication",
+      "to": "project-polymarket-rn1"
+    },
+    {
+      "from": "project-rn1-publication",
+      "to": "project-rn1-analyse-succes"
+    },
+    {
+      "from": "project-rng-infinite",
+      "to": "feedback-github-and-memory"
+    },
+    {
+      "from": "project-rng-infinite",
+      "to": "feedback-incertitude"
+    },
+    {
+      "from": "project-rng-roblox",
+      "to": "project-rng-infinite"
+    },
+    {
+      "from": "project-rng-roblox",
+      "to": "feedback-incertitude"
+    },
+    {
+      "from": "project-rng-roblox",
+      "to": "project-roblox-obby"
+    },
+    {
+      "from": "project-roblox-obby",
+      "to": "project-isaac-roblox"
+    },
+    {
+      "from": "project-rofloat",
+      "to": "feedback-deploy"
+    },
+    {
+      "from": "project-rofloat",
+      "to": "feedback-github-and-memory"
+    },
+    {
+      "from": "user-location",
+      "to": "pixel-tracker"
     }
   ],
-  "hyperedges": []
+  "stats": {
+    "generated": "2026-09-17T17:59:44.606Z",
+    "dirs": [
+      "source 1",
+      "source 2",
+      "source 3"
+    ],
+    "memories": 46,
+    "links": 61,
+    "dangling": 5,
+    "orphans": 4,
+    "isolated": 10,
+    "indexSeen": true
+  }
 }
