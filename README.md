@@ -1,29 +1,29 @@
 # Claude Memory Graph
 
-Visualisation en graphe de la mémoire persistante de Claude Code et du vault Obsidian qui la synchronise : quels fichiers existent, comment ils se relient, quels sujets forment des communautés.
+A graph view of Claude Code's persistent memory and the Obsidian vault that syncs it: which files exist, how they link together, and which topics cluster into communities.
 
-**[Explorer le graphe →](https://sacha9214.github.io/claude-memory-graph/)**
+**[Explore the graph →](https://sacha9214.github.io/claude-memory-graph/)**
 
-![Graphe interactif](docs/apercu.png)
+![Interactive graph](docs/apercu.png)
 
-## Contenu
+## Contents
 
-| Fichier | Rôle |
+| File | Role |
 |---|---|
-| `graph.json` | Le graphe : 122 nœuds, 128 liens, 9 communautés |
-| `GRAPH_REPORT.md` | Synthèse : nœuds les plus connectés, communautés, liens inférés |
-| `index.html` | Rendu interactif : recherche, fiche de chaque nœud, filtre par communauté |
-| `vis-network.min.js` | Bibliothèque de rendu [vis-network](https://github.com/visjs/vis-network), servie localement |
+| `graph.json` | The graph: 122 nodes, 128 edges, 9 communities |
+| `GRAPH_REPORT.md` | Summary: most connected nodes, communities, inferred links |
+| `index.html` | Interactive view: search, per-node details, community filters |
+| `vis-network.min.js` | [vis-network](https://github.com/visjs/vis-network) rendering library, served locally |
 
-Instantané du 31 mai 2026, généré avec graphify.
+Snapshot from May 31, 2026, generated with graphify.
 
-## Lancer en local
+## Run locally
 
 ```bash
 python3 -m http.server 8000
-# puis ouvrir http://localhost:8000
+# then open http://localhost:8000
 ```
 
-## Licence
+## License
 
-[MIT](LICENSE). `vis-network.min.js` garde sa propre licence (Apache-2.0 ou MIT).
+[MIT](LICENSE). `vis-network.min.js` keeps its own license (Apache-2.0 or MIT).
